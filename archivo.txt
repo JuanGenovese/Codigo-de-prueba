@@ -1,4 +1,2 @@
-PRUEBA
-chanchito feliz
-chanchito feliz
-hola, vengo de la rama b
+Hola, ésto es una PRUEBA
+Ahora estoy editando el archivo sin numero 
